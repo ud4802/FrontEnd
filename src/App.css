@@ -1,0 +1,71 @@
+/* *>*{
+  font-family: "Poppins",cursive;
+  margin: 0;
+}
+
+body{
+  background: -webkit-linear-gradient(to right,#77d4ff,#e2e1f1,#77d4ff);
+  background: linear-gradient(to right,#77d4ff,#e2e1f1,#77d4ff);
+}
+
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.register{
+  max-width: 978px;
+  width: 100vw;
+  display: flex;
+  background-color: white;
+  border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(57, 55, 55);
+}
+
+.register span{
+  color: grey;
+}
+
+#form{
+  max-width: 320px;
+  width: 100vw;
+  margin: 2em auto;
+}
+
+#form > input, .btn{
+  border: 1px solid #e9ecef;
+  padding: .9em 1em;
+}
+
+#from > input:focus{
+  outline: none;
+}
+
+#form > .btn{
+  background-color: #003049;
+  color: #e9ecef;
+  font-size: 1em;
+  cursor: pointer;
+} */
+/* .flex{
+  display: flex;
+  gap: 1em;
+} */
+
+/* .flex-col{
+  flex-direction: column;
+}
+
+.register, .col-1{
+  margin: auto;
+  padding: 3em 0;
+}
+
+#fp{
+  text-align: right;
+  color: blue;
+  
+} */
